@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "运行黄色粒子人物",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}\\yellow_character.py",
+      "python": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
